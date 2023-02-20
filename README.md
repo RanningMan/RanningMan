@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranningman" alt="ranningman" /></a> </p>
 
-- 🔭 I’m currently working on **Teams for Education**
+- 🔭 I’m currently working on **Microsoft Teams**
 
 - 👨‍💻 All of my projects are available at [https://rxia.me](https://rxia.me)
 
